@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="github-header-banner.png?text=Hi+I'm+Himanshu+Bisht+👋" alt="Banner" />
+  <img src="github-header-banner.png?" alt="Banner" />
 </p>
 
 <!-- Introduction -->
