@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Hi+I'm+Himanshu+Bisht+👋" alt="Banner" />
+  <img src="[https://via.placeholder.com/1000x250.png?](https://github.com/himu0023/himu0023/blob/main/github-header-banner.png)?text=Hi+I'm+Himanshu+Bisht+👋" alt="Banner" />
 </p>
 
 <!-- Introduction -->
