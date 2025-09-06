@@ -4,7 +4,6 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Himanshu Bisht</h1>
 <h3 align="center">Machine Learning Engineer | Deep Learning | NLP | LangChain</h3>
 
 ---
