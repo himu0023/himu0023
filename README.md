@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **AI/ML projects with LangChain, NLP, and Deep Learning**
 - 🌱 I’m exploring **LLMs, Generative AI, and Computer Vision**
 - 💬 Ask me about **TensorFlow, Scikit-learn, OpenCV, Python, NLP**
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: himanshubisht3231@gmail.com
 - ⚡ Fun fact: *I debug neural networks more than I debug life.*
 
 ---
