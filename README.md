@@ -48,10 +48,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-bisht-554928227 "><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-bisht-554928227"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/himu0023"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github"/></a>
-  <a href="himanshubisht3231@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:himanshubisht3231@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 ---
 ⭐️ From [Himanshu Bisht](https://github.com/himu0023)
